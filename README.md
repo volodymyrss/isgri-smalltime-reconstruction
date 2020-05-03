@@ -22,7 +22,7 @@ energy ranges.
 
 This additional "Spectral" noisy pixel detection can be disabled by setting *NoisyDetFlag*
 parameter to *0*.
-It corresponds to ibis_science_analysis parameter [IBIS_NoisyDetMethod](see https://www.isdc.unige.ch/integral/download/osa/doc/11.0/osa_um_ibis/node148.html).
+It corresponds to ibis_science_analysis parameter [IBIS_NoisyDetMethod](https://www.isdc.unige.ch/integral/download/osa/doc/11.0/osa_um_ibis/node148.html).
 
 
 
