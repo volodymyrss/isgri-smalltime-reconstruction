@@ -24,5 +24,7 @@ This additional "Spectral" noisy pixel detection can be disabled by setting *Noi
 parameter to *0*.
 It corresponds to ibis_science_analysis parameter [IBIS_NoisyDetMethod](https://www.isdc.unige.ch/integral/download/osa/doc/11.0/osa_um_ibis/node148.html).
 
+The impact of this change on the reconstruction is somewhat uncertain since it has never been scientifically validated. We expect it to generally only cause minor additional noise in the image and small bias to the flux extraction.
+
 
 
